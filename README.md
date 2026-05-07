@@ -1,0 +1,2 @@
+## A Study of Resource Constraints and Open-Source LLMs for DataAnnotation
+- Conducted research on evaluating multiple open-source large language models for automated data annotation across NLP tasks. Compared model performance with human-labeled data to assess accuracy and efficiency. Applied zero-shot and few-shot prompting techniques to evaluate and improve model performance. Focused on reducing computational cost while maintaining high-quality outputs.
